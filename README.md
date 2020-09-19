@@ -10,14 +10,19 @@ This framework is intended for those in technology roles, such as chief technolo
 ![Well-Architected Framework Pillars](Well-Architected.jpg)
 
 ### 1. Operational Excellence
+Run and monitor systems to deliver business value. Continually improve supporting processes and procedures.
 
 ### 2. Security
+Protect information, systems, and assets. Deliver business value through risk assessments and mitigation strategies.
 
 ### 3. Reliability
+Recover from infrastructure or service disruptions, dynamically acquire computing resources to meet demand, and mitigate disruptions such as misconfigurations or transient network issues.
 
 ### 4. Performance Efficiency
+Use computing resources efficiently to meet system requirements, and to maintain that efficiency as demand changes and technologies evolve.
 
 ### 5. Cost Optimization
+Run systems to deliver business value at the lowest price point. Avoid unnecessary costs, analyzing spend over time, and scaling to meet business needs without overspending.
 
 ## General Design Principles
 1. **Stop** guessing your capacity needs
