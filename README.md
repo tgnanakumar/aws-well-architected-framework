@@ -18,9 +18,14 @@ This framework is intended for those in technology roles, such as chief technolo
 ### 5. Cost Optimization
 
 ## General Design Principles
-**Stop** guessing your capacity needs
-**Test** systems at production scale
-**Automate** to make architectural experimentation easier
-**Allow** for evolutionary architectures
-**Drive** architectures using data
-**Improve** through game days
+1. **Stop** guessing your capacity needs
+
+1. **Test** systems at production scale
+
+1. **Automate** to make architectural experimentation easier
+
+1. **Allow** for evolutionary architectures
+
+1. **Drive** architectures using data
+
+1. **Improve** through game days
