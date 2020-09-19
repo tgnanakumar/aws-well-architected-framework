@@ -7,6 +7,8 @@ This framework is intended for those in technology roles, such as chief technolo
 
 ## Five Pillars
 
+![Well-Architected Framework Pillars](Well-Architected.jpg)
+
 ### 1. Operational Excellence
 
 ### 2. Security
