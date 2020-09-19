@@ -44,3 +44,4 @@ The AWS Well-Architected Framework provides architectural best practices across 
 * [Reliability Pillar](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html)
 * [Performance Efficiency Pillar](https://docs.aws.amazon.com/wellarchitected/latest/performance-efficiency-pillar/welcome.html)
 * [Cost Optimization Pillar](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html)
+* [Are you well architected?](https://youtu.be/gjNPpjYNiow)
