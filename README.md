@@ -7,7 +7,7 @@ This framework is intended for those in technology roles, such as chief technolo
 
 ## Five Pillars
 
-![Well-Architected Framework Pillars](Well-Architected.jpg =150x150)
+![Well-Architected Framework Pillars](Well-Architected.jpg)
 
 ### 1. Operational Excellence
 Run and monitor systems to deliver business value. Continually improve supporting processes and procedures.
