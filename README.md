@@ -7,7 +7,7 @@ This framework is intended for those in technology roles, such as chief technolo
 
 ## Five Pillars
 
-![Well-Architected Framework Pillars](https://www.awsgeek.com/The-5-Pillars-of-the-AWS-Well-Architected-Framework/The-5-Pillars-of-the-AWS-Well-Architected-Framework.jpg)
+![Well-Architected Framework Pillars](https://www.awsgeek.com/wp-content/uploads/2021/03/The-5-Pillars-of-the-AWS-Well-Architected-Framework-2-scaled.jpg)
 
 ### 1. Operational Excellence
 Run and monitor systems to deliver business value. Continually improve supporting processes and procedures.
